@@ -5,10 +5,10 @@ This project's roots are an initial following of a Sentdex Python 3 basics tutor
 
 A few of the things I added myself:
   
-  Handling unexpected user input
+ * Handling unexpected user input
   
-  The computer player and it's automated turn
+ * The computer player and it's automated turn
   
-  Consolidating the check for a win condition for less redundant code
+ * Consolidating the check for a win condition for less redundant code
   
-  Handling for a tie game
+ * Handling for a tie game
